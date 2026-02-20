@@ -74,4 +74,4 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 ## Author
 **Name:** Dhinesh M and 212223040040
-**Course:** Introduction to Cloud Computing  
+**Course:**Cloud Computing  
